@@ -1,0 +1,12 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "name": "Galhardo"
+        },
+        {
+            "id": 2,
+            "name": "Moisés" 
+        }
+    ]
+}
